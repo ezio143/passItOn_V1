@@ -1,10 +1,9 @@
 package co.in.prodigyschool.passiton;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.text.Editable;
-import android.text.TextWatcher;
 import android.widget.EditText;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class EnterOTPActivity extends AppCompatActivity {
     String userPhoneNumber;
